@@ -1,0 +1,8158 @@
+{
+    "1": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5288,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6324,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2419,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3852,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "2": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6093,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3977,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "3": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6198,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3593,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4351,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5138,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6253,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "4": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4327,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6306,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5238,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "5": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3441,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "6": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3087,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5895,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2426,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5250,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2415,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "7": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2102,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5967,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4541,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6217,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "8": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5890,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3937,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5892,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2242,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6611,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "9": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2411,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6941,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2363,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4637,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3159,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "10": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5168,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3509,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6727,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "11": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5459,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6208,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3743,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6670,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3560,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "12": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3432,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3650,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2389,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4107,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "13": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2902,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5827,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2451,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "14": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5202,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5772,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2560,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5723,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "15": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6897,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4724,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5471,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "16": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5713,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2941,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3194,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5678,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3763,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "17": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5312,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2786,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6858,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6806,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6496,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "18": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3611,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4654,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5037,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2502,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3829,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "19": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2012,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5212,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2968,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "20": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5886,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "21": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6417,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2811,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2408,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6317,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5269,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "22": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3949,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5327,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2579,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3287,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "23": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5079,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3015,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6247,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4877,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6048,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "24": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4122,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6129,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "25": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4692,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "26": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2442,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5764,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4421,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5361,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "27": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2118,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "28": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4622,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4407,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4339,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6599,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "29": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2631,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "30": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5972,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5836,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4359,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5082,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "31": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3534,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5518,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3462,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2248,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4043,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "32": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6059,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5163,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3045,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2874,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6016,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "33": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5337,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5647,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2917,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "34": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2288,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2763,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "35": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2315,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6993,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "36": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4632,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2853,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "37": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2147,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2731,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5192,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6085,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3646,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "38": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3028,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6790,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "39": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4029,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3149,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4210,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "40": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5649,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "41": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4912,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "42": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5554,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5015,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "43": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5677,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6044,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2288,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2613,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "44": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5499,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "45": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5340,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4104,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "46": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4847,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "47": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3548,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5895,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4915,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6306,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "48": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6188,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6518,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3775,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2146,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "49": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5504,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5781,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4380,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "50": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3698,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4724,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3460,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "51": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5553,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2978,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3163,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6524,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3323,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "52": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2385,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "53": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6655,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6469,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4702,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6456,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "54": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3731,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "55": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5677,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "56": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5669,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2348,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4512,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6162,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "57": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3417,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6229,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5960,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "58": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4067,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5637,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5410,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4414,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5783,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "59": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5698,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3127,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3571,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5052,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2388,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "60": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4216,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4177,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6764,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6850,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "61": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2760,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3003,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3695,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5565,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "62": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5410,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5614,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3881,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "63": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4489,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2207,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3753,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5836,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "64": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4851,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5710,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3961,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4169,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2669,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "65": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2950,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2418,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3828,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3947,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "66": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5683,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3710,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "67": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4156,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5380,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5905,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6274,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "68": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3775,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4883,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4228,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5059,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6616,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "69": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5010,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6474,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4282,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6052,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "70": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6115,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4171,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5935,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5455,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "71": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4164,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4209,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5251,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2881,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "72": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2265,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4823,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "73": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6762,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2899,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "74": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3380,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "75": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4319,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2155,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5514,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "76": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6740,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "77": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4345,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2387,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6904,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4410,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "78": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6864,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "79": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4344,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6059,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4554,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "80": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3629,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2507,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3812,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "81": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6322,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4269,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "82": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4387,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4109,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5508,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "83": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4337,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6283,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6809,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3861,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "84": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2991,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "85": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2048,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4347,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5597,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "86": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6857,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5111,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3990,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "87": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3291,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3497,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5595,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4894,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6538,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "88": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5928,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4878,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "89": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5340,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5705,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4973,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4839,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "90": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4201,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6365,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2762,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "91": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2629,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3807,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3882,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6009,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6853,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "92": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4408,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2178,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4811,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6073,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6424,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "93": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5810,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5575,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "94": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5877,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "95": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4666,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "96": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4467,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2138,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "97": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4205,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6258,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2105,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "98": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2954,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6913,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5441,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "99": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2091,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4974,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "100": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5147,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4944,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5726,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "101": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3866,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2952,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2367,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3906,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4113,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "102": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4874,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4437,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4289,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6259,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "103": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2912,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5431,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2850,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5878,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3491,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "104": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2358,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3272,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6696,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5237,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "105": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5055,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3581,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5224,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5453,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "106": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3492,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "107": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4476,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "108": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2250,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3171,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2684,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5608,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3934,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "109": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3183,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6479,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6777,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3424,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3877,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "110": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2186,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5569,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4018,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "111": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6185,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5115,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "112": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5700,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6858,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6409,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "113": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4621,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4194,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2979,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3083,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3369,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "114": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4335,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3441,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3874,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "115": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3694,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5440,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4372,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2014,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "116": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4357,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6026,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4278,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "117": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6192,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5522,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6907,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "118": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3656,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5735,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5768,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3665,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "119": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3334,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2615,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4101,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5789,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "120": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6924,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "121": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2127,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3872,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2618,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6466,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "122": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2051,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4039,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2523,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2217,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "123": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4440,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2261,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4102,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "124": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6716,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4493,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2026,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "125": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5487,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4389,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2600,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5458,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3356,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "126": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6408,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6249,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2451,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6917,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5210,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "127": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2582,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2521,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3186,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "128": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5758,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2815,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "129": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5643,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "130": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2350,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2153,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "131": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3595,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3906,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "132": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4178,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2672,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2655,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2095,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5515,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "133": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4320,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5246,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2682,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6574,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "134": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5536,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2941,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5156,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5789,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5837,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "135": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5923,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2915,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5966,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "136": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5545,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5560,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3584,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5983,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6507,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "137": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5075,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3913,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6767,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "138": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5918,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3715,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5339,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "139": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3061,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5373,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "140": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4719,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3439,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4807,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "141": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5098,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "142": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5856,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5156,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5371,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6869,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "143": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5690,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5735,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4694,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5375,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5906,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "144": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2810,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "145": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2931,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5977,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5049,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4981,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "146": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4998,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "147": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5004,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2145,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2126,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4303,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "148": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4188,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2668,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6736,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3271,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "149": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6435,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5141,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "150": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5474,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4112,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "151": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4966,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5416,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6060,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2809,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "152": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3726,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4901,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6502,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3709,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "153": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6425,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5538,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4746,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "154": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5748,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4055,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2339,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5380,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2806,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "155": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5985,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6776,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5751,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2902,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3849,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "156": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5700,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "157": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5853,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6480,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "158": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6277,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "159": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3789,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3895,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3910,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5300,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2458,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "160": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2379,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4529,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "161": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4190,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2232,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3205,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "162": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2474,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5481,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6316,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "163": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3583,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5511,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6154,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2318,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4856,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "164": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5252,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4555,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "165": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2946,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3201,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "166": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5726,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4329,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "167": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3152,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "168": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4968,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6777,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "169": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5902,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "170": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2561,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2854,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "171": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4951,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6471,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2546,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4961,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "172": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3073,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4246,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5403,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2987,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4328,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "173": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6139,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2810,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2629,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6514,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3862,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "174": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6653,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "175": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4117,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6286,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "176": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5248,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2152,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3730,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4912,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "177": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4209,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4702,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5533,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5515,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "178": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2792,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "179": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4073,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5080,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2505,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "180": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6072,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "181": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5781,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "182": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2784,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3314,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5427,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2334,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4211,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "183": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6148,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2835,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5494,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "184": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6137,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6097,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3748,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5447,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5515,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "185": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4570,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5435,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "186": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5634,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4403,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5714,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "187": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5408,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "188": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3021,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6152,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5585,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6428,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "189": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2003,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "190": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4657,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4297,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2633,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3761,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3875,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "191": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5204,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "192": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4222,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "193": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6590,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "194": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2500,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4673,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6574,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3442,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2441,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "195": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4679,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6684,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "196": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3808,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3632,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "197": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5864,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6641,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2353,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "198": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3959,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2174,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "199": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4012,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3486,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3484,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "200": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3154,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4352,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5600,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4328,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5761,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "201": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4795,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "202": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2539,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3137,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3334,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3344,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "203": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4712,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4892,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4611,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "204": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2795,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "205": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4997,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5280,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3560,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3236,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5885,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "206": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3442,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "207": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5446,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6890,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5952,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6627,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5092,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "208": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2466,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6765,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4143,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2200,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "209": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6804,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2903,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3565,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3639,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "210": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5627,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5670,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "211": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4671,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3331,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4502,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "212": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5530,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "213": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3512,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6127,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6286,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6635,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2243,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "214": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4458,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4502,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4772,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4817,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "215": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2547,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3723,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4218,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4972,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "216": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2748,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4471,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3732,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "217": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6783,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "218": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4796,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6731,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5146,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4823,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "219": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3773,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2137,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2546,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "220": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6278,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5488,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5703,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2921,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6547,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "221": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2142,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2987,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "222": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3071,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2895,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2989,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3239,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "223": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4005,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2443,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6430,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6751,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4033,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "224": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4269,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5838,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "225": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6481,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "226": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2628,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3274,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2399,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "227": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5500,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4339,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2457,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2610,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "228": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6830,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4473,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6602,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5833,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6319,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "229": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2987,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5533,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6602,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "230": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5377,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3719,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3098,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "231": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4577,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "232": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3305,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6438,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2192,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6323,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4582,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "233": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5028,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2508,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "234": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5700,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3963,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5726,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "235": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4614,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5431,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4596,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4276,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2871,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "236": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6109,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4753,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "237": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6056,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6120,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3669,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2480,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6461,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "238": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4890,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4634,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2741,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "239": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4459,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4738,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4656,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "240": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6098,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5869,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2616,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4695,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3820,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "241": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3582,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "242": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3469,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "243": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6607,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "244": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6304,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4964,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6756,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5338,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "245": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3006,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5965,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6037,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4425,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2656,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "246": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2485,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "247": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5487,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6127,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4776,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2017,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2862,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "248": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3986,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4811,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5793,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "249": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5314,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "250": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4537,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "251": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5346,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2248,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5347,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6016,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "252": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5417,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3282,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "253": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6490,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5017,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "254": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5761,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3871,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3613,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5047,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "255": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2764,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5012,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6659,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2267,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6199,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "256": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3477,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2064,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6190,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5574,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "257": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2331,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6994,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2798,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "258": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5621,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "259": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3651,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2676,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4367,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3472,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2660,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "260": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5096,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3656,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2600,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5762,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "261": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5690,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2814,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2671,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "262": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3055,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6306,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4698,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4369,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2934,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "263": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6203,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4495,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6259,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4399,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "264": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2288,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2131,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4841,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5718,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3402,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "265": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5739,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5179,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "266": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6980,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "267": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5377,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5188,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3601,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "268": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3334,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3570,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5210,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5842,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6148,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "269": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6417,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6977,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2948,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2665,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4655,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "270": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3908,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4188,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4008,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "271": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4806,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2155,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "272": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6265,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "273": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2561,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "274": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5653,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3033,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3821,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "275": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5545,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6189,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "276": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2931,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3933,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2659,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "277": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4427,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5074,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5479,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6025,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "278": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2250,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "279": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6466,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3675,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4008,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5622,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "280": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4012,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4403,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5223,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3019,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6145,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "281": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2753,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "282": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2190,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2391,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2275,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2568,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "283": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4417,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5156,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2378,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4786,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2627,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "284": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5260,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2039,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4044,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "285": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5513,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2046,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "286": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2605,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "287": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3150,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "288": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3212,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "289": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2098,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2083,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3674,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "290": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4742,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "291": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3958,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2105,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3056,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4182,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "292": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5987,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "293": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5383,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5214,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5859,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "294": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5067,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2717,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3510,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3329,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "295": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5654,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4015,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4677,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "296": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2328,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "297": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6898,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "298": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3555,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6136,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2147,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "299": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3259,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4102,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "300": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5804,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3048,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "301": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5537,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4427,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6692,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5860,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5346,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "302": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4960,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6588,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5989,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "303": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4241,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5754,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5955,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "304": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4451,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4851,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3137,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "305": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5429,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4135,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5839,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4266,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "306": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4088,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2276,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4134,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2902,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "307": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4688,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3732,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6871,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3330,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4655,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "308": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4911,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2570,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "309": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4175,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6146,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5638,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3405,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "310": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3372,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4728,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2151,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3512,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "311": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6850,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5180,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2712,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4074,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "312": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4763,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "313": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6855,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5730,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6482,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4860,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2294,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "314": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5432,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6725,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5985,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5969,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4805,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "315": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3987,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2876,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5937,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3699,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5550,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "316": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3661,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "317": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2191,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5599,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "318": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6162,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2578,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6517,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5286,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4321,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "319": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5475,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5676,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5357,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2005,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "320": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4575,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2060,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3865,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2280,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5883,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "321": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2649,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5886,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2041,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5784,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4767,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "322": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3153,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3008,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2135,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "323": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2841,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3292,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6956,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "324": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2459,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "325": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6604,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5084,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "326": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5515,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2979,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "327": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4182,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "328": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5663,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5163,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2519,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5166,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6026,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "329": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3025,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2384,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6580,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "330": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5124,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5600,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2093,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5575,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2870,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "331": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4730,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6227,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "332": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6279,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "333": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3866,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4653,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3111,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3854,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "334": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4468,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4130,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "335": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6990,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3469,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "336": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6364,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2725,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6364,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2452,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6986,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "337": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4750,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6872,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6171,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5422,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3443,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "338": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6860,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2117,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3518,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "339": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3241,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4120,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "340": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6690,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2036,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2446,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4588,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "341": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5709,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3737,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2673,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4531,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5949,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "342": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5276,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "343": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5174,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2693,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6208,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4923,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3195,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "344": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2945,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3792,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2060,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5220,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "345": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2027,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2363,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "346": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5864,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4879,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6426,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "347": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4819,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6937,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6620,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5403,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5530,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "348": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5555,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4778,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2938,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6780,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "349": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6398,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6414,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "350": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5565,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6064,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6264,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "351": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6795,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "352": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6161,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6463,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2774,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2982,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "353": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6176,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2768,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5700,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "354": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4820,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "355": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6371,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3192,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3983,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5395,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "356": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5826,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3245,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "357": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3252,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4079,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3568,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6820,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "358": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3197,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6571,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4836,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3358,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "359": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5369,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "360": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6233,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6306,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6619,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "361": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4043,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6501,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "362": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4600,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3863,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6277,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3667,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "363": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6525,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "364": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2503,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4706,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6725,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4779,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2716,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "365": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2381,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "366": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3893,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4664,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2786,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6581,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "367": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3052,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4108,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6072,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6336,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5613,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "368": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5372,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5430,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "369": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3421,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3978,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "370": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6533,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "371": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4659,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5460,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2159,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2592,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2622,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "372": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4545,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6164,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4690,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3407,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "373": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6247,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3803,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6295,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "374": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5260,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3661,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "375": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3374,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5818,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "376": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6170,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5114,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2047,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "377": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3504,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "378": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4991,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2902,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5452,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3968,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4212,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "379": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5023,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2898,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5673,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6530,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5893,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "380": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6815,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3015,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "381": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5891,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3004,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "382": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3503,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6858,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5384,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3000,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5192,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "383": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3169,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4760,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2409,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6699,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "384": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2641,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6313,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4951,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6577,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "385": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4602,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4511,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3069,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4341,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6325,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "386": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2688,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3079,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5274,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3694,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2058,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "387": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2712,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6862,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3905,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5997,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "388": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2411,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2763,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5816,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2591,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6787,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "389": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3207,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4002,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6504,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6013,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "390": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2492,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "391": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6057,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2743,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3747,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4706,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "392": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4402,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "393": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2052,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6772,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3969,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "394": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6933,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4428,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4044,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6916,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4798,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "395": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5814,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6711,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6622,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "396": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3943,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4090,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2335,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2151,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6789,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "397": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5435,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "398": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6918,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4232,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "399": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6266,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "400": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3808,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5106,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "401": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5786,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4990,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "402": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2420,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5623,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2536,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "403": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2089,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "404": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5279,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "405": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5215,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6488,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2102,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5919,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5012,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "406": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2537,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "407": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6470,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3708,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2981,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6150,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "408": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3746,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5830,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2381,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6955,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "409": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5197,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3805,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2878,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5105,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4656,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "410": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6995,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6207,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3933,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "411": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5361,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6978,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3217,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4537,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "412": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6952,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5215,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6405,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4547,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "413": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6391,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6835,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3092,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4133,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "414": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2459,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3308,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "415": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5250,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2999,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "416": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2775,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "417": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4644,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5098,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2504,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2662,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2821,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "418": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5261,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3467,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5307,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4056,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3328,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "419": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5689,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6212,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5812,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6782,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "420": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3497,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3516,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "421": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6416,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2445,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5676,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5114,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "422": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4121,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6071,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5368,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "423": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2733,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5195,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6888,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "424": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2126,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4845,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "425": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5904,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2033,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2304,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4632,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2888,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "426": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5004,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5940,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5830,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4672,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4595,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "427": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6318,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "428": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5542,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "429": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3329,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "430": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4298,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5577,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "431": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3514,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2482,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6358,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5224,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6683,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "432": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2295,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5320,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6408,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5491,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "433": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4960,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6599,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4260,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3140,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "434": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6635,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4991,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "435": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6154,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3592,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4393,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6238,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6943,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "436": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4831,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5114,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6146,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5823,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6267,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "437": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6586,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "438": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2941,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5116,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3278,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4868,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5859,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "439": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6580,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5089,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4263,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3136,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "440": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4620,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3526,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "441": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3851,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6170,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "442": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4597,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5918,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2837,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "443": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3220,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6986,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "444": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5859,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5251,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4160,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6001,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5602,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "445": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3953,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3858,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6929,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4365,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "446": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4982,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3101,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "447": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3522,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "448": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4627,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5598,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3466,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "449": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6605,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6946,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "450": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6543,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "451": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3918,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5177,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3081,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3293,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4888,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "452": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3263,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5783,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2008,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "453": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4431,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5992,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2417,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "454": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5561,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "455": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6236,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3844,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5002,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2592,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "456": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4823,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3192,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "457": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5025,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6685,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6424,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3103,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5573,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "458": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4197,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4318,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "459": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4821,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3216,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "460": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5081,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "461": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4956,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5661,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "462": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3187,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6918,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "463": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5032,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "464": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4629,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5332,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3925,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3685,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2714,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "465": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3802,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5413,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2850,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "466": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5512,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6787,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3800,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2725,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5230,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "467": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6613,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3689,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5192,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4229,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5015,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "468": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3820,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6732,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5593,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "469": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3029,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2601,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2875,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "470": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6319,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6515,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "471": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3414,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4877,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4915,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5049,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4851,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "472": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2800,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4603,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4812,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3424,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4273,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "473": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5027,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "474": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5932,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2988,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3397,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "475": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6530,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4008,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4988,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2540,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "476": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5287,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "477": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2482,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 4413,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3665,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "478": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4573,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6606,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4957,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "479": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4355,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6201,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5035,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3627,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "480": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3496,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3242,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3421,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3957,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6350,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "481": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3255,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3601,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4047,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "482": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5939,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6819,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2546,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2393,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "483": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4925,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2840,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "484": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6991,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3956,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5300,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6109,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4813,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "485": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6420,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3910,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6830,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2935,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5938,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "486": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6061,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4543,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "487": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3594,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "488": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5188,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "489": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6040,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5725,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6601,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3345,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "490": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5710,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6044,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "491": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 2957,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 5891,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 4770,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6234,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2808,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "492": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 4288,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5179,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2918,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2887,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "493": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3276,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3805,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2250,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5787,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 6024,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "494": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3668,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3991,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5053,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "495": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 5725,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5656,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 2151,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6776,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "496": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3364,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2216,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2191,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 2804,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "497": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3900,
+                "Fraudulenta": 1
+            }
+        ]
+    },
+    "498": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3734,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "499": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 3783,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 5167,
+                "Fraudulenta": 0
+            }
+        ]
+    },
+    "500": {
+        "TransaccionesPrevias": [
+            {
+                "TransactionID": 6932,
+                "Fraudulenta": 1
+            },
+            {
+                "TransactionID": 3955,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 3887,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6500,
+                "Fraudulenta": 0
+            },
+            {
+                "TransactionID": 6336,
+                "Fraudulenta": 0
+            }
+        ]
+    }
+}

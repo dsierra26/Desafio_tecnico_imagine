@@ -71,7 +71,7 @@ curl -X 'POST' 'http://127.0.0.1:8000/predict' \
 }
 ```
 
-## 🛠️ Notas
+## Notas
 
 - Puedes probar la API visualmente en `http://127.0.0.1:8000/docs`, donde FastAPI genera documentación interactiva.
 - El modelo utilizado en esta API fue entrenado previamente y guardado como `mejor_modelo_logistic_regression.pkl`.
